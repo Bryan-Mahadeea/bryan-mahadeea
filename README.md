@@ -1,10 +1,8 @@
 <h1>Hi, I'm Bryan!</h1>
+<h></h>🛠️ Projects</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/bryan-mahadeea/LABURL)
-  - [Hello World!](https://github.com/bryan-mahadeea/LABURL)
+- [Active Directory Home Lab](https://github.com/bryan-mahadeea/LABURL)
+ - [Hello World!](https://github.com/bryan-mahadeea/LABURL)
 
 <h>📃 Certifications</h2>
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/0c01399e-51b2-4e73-b712-fb6e497fc94d/public_url)
