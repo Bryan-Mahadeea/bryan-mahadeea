@@ -4,8 +4,11 @@
 - [Windows Defender Firewall with Advanced Security](https://github.com/Bryan-Mahadeea/Win-Firead)
 - [Windows Defender Firewall](https://github.com/Bryan-Mahadeea/Win-Defire)
 - [Windows Defender Antivirus](https://github.com/Bryan-Mahadeea/Win-Def-Ant)
-- [Hello World!](https://github.com/bryan-mahadeea/LABURL)
-
+- [Python Rock Paper Scissors Game](https://github.com/Bryan-Mahadeea/Python-Game)
+- [Python Dice Game Simulator](https://github.com/Bryan-Mahadeea/Python-Dice)
+- [Python Calculator](https://github.com/Bryan-Mahadeea/Python-Calculator)
+ 
+    
 <h>📃 Certifications</h2>
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/0c01399e-51b2-4e73-b712-fb6e497fc94d/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/56625440-2d5a-471f-82ee-b1281ce461c5/public_url)
